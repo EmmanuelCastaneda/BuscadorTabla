@@ -15,3 +15,5 @@ function InputComponent({ filterText, handleFilterChange }) {
       </div>
     );
   }
+
+  export default InputComponent
