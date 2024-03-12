@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.data-table{
+    padding: 30px;
+    width: 100%;
+    border: 2px solid  rgb(212, 212, 212);
+    border-collapse: collapse;
+    table-layout: fixed;
+    
+}
+td,th{
+    margin: 10px;
+    border: 1px solid  rgb(247, 245, 245);
+}       
